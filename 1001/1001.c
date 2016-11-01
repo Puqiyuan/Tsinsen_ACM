@@ -4,7 +4,6 @@
 int* convert( int* A, int s )
 {
   int i = 0;
-  
   while (i <= 5 && s != 0)
     {
       A[i] = s % 2;
