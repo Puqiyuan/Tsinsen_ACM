@@ -5,3 +5,6 @@ of the exercise from that website corresponding exercise. Please check http://ww
 all problems. If you want to see the problems, you must be registered. But if you don't want, does't 
 matter, I will provide the exercises in every directory by png picture. I wish you can improve these
 codes with me so make it faster even though it is 100 score, thank you.
+
+If you want a English version about these problems because you don't know Chinese, please send me 
+email. 
