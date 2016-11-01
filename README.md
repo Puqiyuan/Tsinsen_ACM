@@ -8,3 +8,6 @@ codes with me so make it faster even though it is 100 score, thank you.
 
 If you want a English version about these problems because you don't know Chinese, please send me 
 email. 
+
+I will express my gratitude for Miss Liu, a beautiful and loving studying girl, always
+keeping curiosity, she help me to push and test many problems, thank you, a sweet girl.
