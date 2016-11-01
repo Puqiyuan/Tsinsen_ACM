@@ -9,7 +9,7 @@ int max(int* a, int length)
       if (max < a[i])
 	max = a[i];
     }
-  
+
   return max;
 }
 
