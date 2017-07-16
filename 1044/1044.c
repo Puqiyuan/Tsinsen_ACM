@@ -29,13 +29,13 @@ int sum(int n)
 
 int main(int argc, char *argv[])
 {
-	int in;
-	scanf("%d", &in);
+	int n;
+	scanf("%d", &n);
 
-	while (in != 0)
+	while (n != 0)
 		{
-			printf("%d\n", sum(in));
-			scanf("%d", &in);
+			printf("%d\n", sum(n));
+			scanf("%d", &n);
 		}
 	
 	return 0;
