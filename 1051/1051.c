@@ -89,7 +89,6 @@ int output(int **info, int len)
 
 			else if (max == info[j][3])
 				printf("%c", 'T');
-			
 		}
 
 	printf("\n");
